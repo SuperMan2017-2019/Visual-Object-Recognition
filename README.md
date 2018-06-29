@@ -1,4 +1,4 @@
-# Visual-Object-Recognition
+# Visual-Object-Recognition( Prediction of Visual Perception from BOLD fMRI )
 
 # Dataset description
 The dataset used in this Report was obtained from the Open fMRI database (accession number ds000105). Based on the same dataset, there have been 3 major publications. Haxby , the original investigator of the dataset, postulated that patterns of response found in the Ventral Temporal (VT) lobe directly corresponded to the object being perceived.
